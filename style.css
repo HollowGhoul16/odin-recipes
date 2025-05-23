@@ -41,7 +41,7 @@ li {
     background-color: rgb(95, 89, 81);
 }
 
-.link {
+.recipes .link {
     background: rgb(112, 105, 96);
     box-sizing: border-box;
     display: inline-block;
